@@ -1,0 +1,501 @@
+client_id,client_name,client_type,segment,region,province,age,gender,account_type,account_open_date,aum_thb,phone,email,risk_level,is_active
+C00001,Somsak Srisawat,Individual,Retail,North,Chiang Rai,31.0,M,Cash,2022-03-28,84798.15,083-991-5889,somsak.sri@email.com,Medium,True
+C00002,Sompong Chaiyasit,Individual,Retail,South,Krabi,48.0,F,Cash,2025-01-29,1005615.43,,sompong.cha@email.com,Low,True
+C00003,Wichai Tangsiri,Individual,Retail,South,Phuket,38.0,M,Cash,2024-08-08,101305.71,095-935-2133,wichai.tan@email.com,High,True
+C00004,Prasert Pongpanich,Individual,Retail,South,Surat Thani,38.0,M,Margin,2023-08-07,371963.92,096-993-7932,prasert.pon@email.com,Medium,True
+C00005,Thawatchai Suwannapong,Individual,Retail,North,Phitsanulok,54.0,M,Margin,2022-03-08,75117.26,094-223-5061,thawatchai.suw@email.com,Low,False
+C00006,Suphachai Rattanakit,Individual,Retail,Bangkok,Bangkok,26.0,F,Cash,2024-09-14,228138.61,081-980-6413,suphachai.rat@email.com,High,True
+C00007,Anon Prasertchai,Individual,Retail,South,Krabi,37.0,M,Margin,2022-06-07,361014.58,087-903-8749,anon.pra@email.com,Medium,True
+C00008,Kittisak Wattanasin,Individual,Retail,Northeast,Ubon Ratchathani,52.0,M,Cash,2020-03-28,23781.92,081-789-2612,kittisak.wat@email.com,Low,True
+C00009,Chaiyaporn Boonlert,Individual,Retail,Northeast,Nakhon Ratchasima,37.0,F,Margin,2022-09-19,51388.66,085-385-8579,chaiyaporn.boo@email.com,Low,True
+C00010,Nattapong Jitpakdi,Individual,High Net Worth,South,Phuket,56.0,F,Cash,2024-07-23,5900454.21,087-270-7658,nattapong.jit@email.com,Low,True
+C00011,Worawit Saengthong,Individual,Retail,Northeast,Udon Thani,38.0,F,Cash,2020-09-08,1200211.44,094-392-7930,worawit.sae@email.com,Low,True
+C00012,Siriwan Phromwong,Individual,Retail,Bangkok,Bangkok,44.0,M,Cash,2020-11-21,543127.9,090-158-1821,siriwan.phr@email.com,High,True
+C00013,Pornphan Suksawat,Individual,Retail,Central,Nonthaburi,75.0,M,Margin,2021-09-30,102194.3,082-791-4853,pornphan.suk@email.com,High,False
+C00014,Napaporn Thongsuk,Corporate,Corporate,Bangkok,Bangkok,,,Margin,2021-05-25,34844907.54,098-678-9565,napaporn.tho@email.com,High,True
+C00015,Sasithorn Wongsuwan,Institution,Institutional,North,Phitsanulok,,,Cash,2024-05-07,122607599.88,089-568-6180,sasithorn.won@email.com,Medium,True
+C00016,Kanokwan Srisawat,Individual,Retail,South,Phuket,59.0,M,Cash,2024-09-02,1274717.69,097-318-9288,kanokwan.sri@email.com,Medium,True
+C00017,Patcharin Chaiyasit,Individual,Retail,Northeast,Udon Thani,32.0,M,Credit,2021-08-27,158280.22,096-108-5905,patcharin.cha@email.com,Low,True
+C00018,Rattana Tangsiri,Individual,High Net Worth,South,Surat Thani,26.0,F,Margin,2023-07-23,5206135.0,089-719-4450,rattana.tan@email.com,Medium,True
+C00019,Supaporn Pongpanich,Individual,Retail,Bangkok,Bangkok,31.0,M,Margin,2021-07-11,810241.8,093-949-5533,supaporn.pon@email.com,Medium,True
+C00020,Nanthana Suwannapong,Individual,Retail,Northeast,Ubon Ratchathani,46.0,M,Margin,2021-12-09,2167073.17,080-214-2232,nanthana.suw@email.com,Low,True
+C00021,Waraporn Rattanakit,Individual,High Net Worth,South,Krabi,51.0,M,Credit,2024-04-02,9528314.54,093-230-1685,waraporn.rat@email.com,Low,True
+C00022,Chutima Prasertchai,Individual,High Net Worth,Bangkok,Bangkok,55.0,M,Cash,2020-09-16,3384646.33,097-995-7658,chutima.pra@email.com,Low,True
+C00023,Patcharee Wattanasin,Individual,Retail,Bangkok,Bangkok,26.0,M,Credit,2020-12-14,32834.03,090-901-7745,patcharee.wat@email.com,Low,True
+C00024,Somchai Boonlert,Individual,Retail,Bangkok,Bangkok,58.0,F,Credit,2020-03-11,196657.11,081-979-8711,somchai.boo@email.com,Medium,True
+C00025,Somsak Jitpakdi,Individual,High Net Worth,Central,Pathum Thani,55.0,F,Credit,2024-12-13,6195330.67,086-508-6378,somsak.jit@email.com,High,True
+C00026,Sompong Saengthong,Individual,Retail,South,Songkhla,48.0,F,Cash,2024-12-05,624563.17,083-998-5279,sompong.sae@email.com,Low,True
+C00027,Wichai Phromwong,Individual,High Net Worth,North,Lampang,62.0,F,Cash,2022-08-21,6404073.66,099-623-2894,wichai.phr@email.com,High,True
+C00028,Prasert Suksawat,Individual,Retail,South,Krabi,49.0,F,Margin,2021-03-26,278907.1,086-472-8066,prasert.suk@email.com,Medium,True
+C00029,Thawatchai Thongsuk,Individual,Retail,Bangkok,Bangkok,27.0,M,Cash,2022-03-29,355218.59,089-782-7691,thawatchai.tho@email.com,Medium,True
+C00030,Suphachai Wongsuwan,Institution,Institutional,Northeast,Nakhon Ratchasima,,,Credit,2021-08-19,24336941.15,098-408-7653,,Low,True
+C00031,Anon Srisawat,Individual,Retail,South,Krabi,57.0,F,Margin,2021-05-31,704374.57,090-576-8238,anon.sri@email.com,Low,True
+C00032,Kittisak Chaiyasit,Individual,Retail,North,Lampang,42.0,M,Cash,2024-07-23,87904.18,087-788-6085,kittisak.cha@email.com,Low,True
+C00033,Chaiyaporn Tangsiri,Institution,Institutional,South,Phuket,,,Credit,2022-07-13,92544354.02,093-744-4185,chaiyaporn.tan@email.com,Low,True
+C00034,Nattapong Pongpanich,Individual,Retail,Bangkok,Bangkok,39.0,F,Cash,2020-09-19,1025759.87,093-324-3881,nattapong.pon@email.com,High,True
+C00035,Worawit Suwannapong,Individual,High Net Worth,Bangkok,Bangkok,61.0,F,Margin,2024-05-02,14321213.25,094-783-9702,worawit.suw@email.com,High,True
+C00036,Siriwan Rattanakit,Individual,Retail,Northeast,Ubon Ratchathani,47.0,F,Margin,2024-03-11,58296.08,095-560-5246,siriwan.rat@email.com,Medium,True
+C00037,Pornphan Prasertchai,Individual,Retail,North,Phitsanulok,60.0,M,Cash,2024-08-25,985672.49,089-340-5451,pornphan.pra@email.com,Low,True
+C00038,Napaporn Wattanasin,Individual,Retail,Central,Pathum Thani,41.0,M,Credit,2024-09-21,357438.08,093-517-6421,napaporn.wat@email.com,Medium,True
+C00039,Sasithorn Boonlert,Individual,Retail,South,Phuket,40.0,F,Credit,2020-04-12,205954.29,,sasithorn.boo@email.com,High,True
+C00040,Kanokwan Jitpakdi,Institution,Institutional,South,Krabi,,,Credit,2023-11-06,29519190.14,095-324-5471,,High,True
+C00041,Patcharin Saengthong,Individual,Retail,Northeast,Nakhon Ratchasima,41.0,M,Cash,2020-05-15,607043.49,,patcharin.sae@email.com,High,True
+C00042,Rattana Phromwong,Individual,Retail,Northeast,Nakhon Ratchasima,44.0,F,Credit,2024-10-20,178965.23,088-488-6363,rattana.phr@email.com,Medium,True
+C00043,Supaporn Suksawat,Individual,Retail,Bangkok,Bangkok,25.0,M,Cash,2024-12-22,18792.24,097-153-6733,supaporn.suk@email.com,Low,True
+C00044,Nanthana Thongsuk,Individual,Retail,Bangkok,Bangkok,37.0,F,Credit,2023-09-30,163312.96,084-584-2874,nanthana.tho@email.com,Low,True
+C00045,Waraporn Wongsuwan,Institution,Institutional,Bangkok,Bangkok,,,Credit,2023-05-04,23693027.61,083-692-1420,waraporn.won@email.com,Medium,True
+C00046,Chutima Srisawat,Individual,Retail,Central,Nonthaburi,45.0,M,Margin,2021-10-06,336136.05,087-204-5941,chutima.sri@email.com,Low,True
+C00047,Patcharee Chaiyasit,Corporate,Corporate,Northeast,Udon Thani,,,Credit,2024-09-11,10542896.27,,patcharee.cha@email.com,Low,True
+C00048,Somchai Tangsiri,Individual,High Net Worth,North,Phitsanulok,35.0,F,Margin,2021-02-12,9513744.64,084-545-3885,somchai.tan@email.com,High,True
+C00049,Somsak Pongpanich,Individual,Retail,Northeast,Ubon Ratchathani,54.0,M,Credit,2020-06-14,500251.87,098-374-6280,somsak.pon@email.com,Medium,True
+C00050,Sompong Suwannapong,Individual,Retail,Northeast,Ubon Ratchathani,34.0,F,Credit,2023-03-14,901822.4,080-606-6325,sompong.suw@email.com,Medium,True
+C00051,Wichai Rattanakit,Individual,Retail,North,Chiang Mai,45.0,M,Margin,2022-03-09,103216.05,086-187-4954,wichai.rat@email.com,Medium,True
+C00052,Prasert Prasertchai,Individual,Retail,Northeast,Ubon Ratchathani,65.0,F,Margin,2020-08-21,8363.47,080-195-5820,prasert.pra@email.com,High,True
+C00053,Thawatchai Wattanasin,Individual,Retail,South,Krabi,55.0,F,Credit,2023-02-26,128412.07,093-863-6419,thawatchai.wat@email.com,Low,True
+C00054,Suphachai Boonlert,Individual,Retail,Central,Samut Prakan,51.0,F,Margin,2024-05-31,244479.35,097-880-4033,suphachai.boo@email.com,High,True
+C00055,Anon Jitpakdi,Institution,Institutional,South,Krabi,,,Credit,2023-07-01,17397220.67,083-952-4180,anon.jit@email.com,Low,True
+C00056,Kittisak Saengthong,Individual,Retail,Central,Samut Prakan,34.0,F,Cash,2024-10-29,60222.14,081-666-5786,kittisak.sae@email.com,Low,True
+C00057,Chaiyaporn Phromwong,Institution,Institutional,Northeast,Ubon Ratchathani,,,Cash,2022-08-12,114916685.36,090-288-1841,chaiyaporn.phr@email.com,Low,True
+C00058,Nattapong Suksawat,Individual,Retail,Bangkok,Bangkok,57.0,F,Margin,2024-03-26,405066.18,084-930-5978,nattapong.suk@email.com,High,True
+C00059,Worawit Thongsuk,Individual,Retail,Central,Chonburi,51.0,F,Margin,2022-12-13,138438.52,094-553-5871,worawit.tho@email.com,High,True
+C00060,Siriwan Wongsuwan,Individual,Retail,Bangkok,Bangkok,27.0,M,Cash,2021-07-29,214783.81,086-370-2330,siriwan.won@email.com,Low,True
+C00061,Pornphan Srisawat,Individual,High Net Worth,South,Hat Yai,59.0,F,Cash,2023-06-14,14370486.75,081-337-5720,pornphan.sri@email.com,High,True
+C00062,Napaporn Chaiyasit,Institution,Institutional,North,Chiang Rai,,,Cash,2022-09-13,85678109.6,083-657-4683,napaporn.cha@email.com,Low,True
+C00063,Sasithorn Tangsiri,Individual,Retail,North,Lampang,47.0,F,Credit,2022-08-15,4619.8,083-579-5982,sasithorn.tan@email.com,Low,True
+C00064,Kanokwan Pongpanich,Individual,Retail,Northeast,Udon Thani,55.0,M,Margin,2021-09-12,544581.19,088-126-2496,kanokwan.pon@email.com,Medium,True
+C00065,Patcharin Suwannapong,Individual,Retail,Central,Ayutthaya,47.0,F,Cash,2022-03-05,588657.64,094-384-3973,patcharin.suw@email.com,Medium,True
+C00066,Rattana Rattanakit,Individual,High Net Worth,North,Lampang,30.0,F,Margin,2021-04-29,4269749.34,083-978-3634,rattana.rat@email.com,Medium,True
+C00067,Supaporn Prasertchai,Individual,High Net Worth,South,Phuket,35.0,F,Margin,2022-07-14,9861787.76,082-422-5135,supaporn.pra@email.com,Low,True
+C00068,Nanthana Wattanasin,Individual,Retail,South,Hat Yai,31.0,F,Cash,2022-10-07,945978.04,081-292-9494,nanthana.wat@email.com,Low,True
+C00069,Waraporn Boonlert,Individual,High Net Worth,Central,Samut Prakan,34.0,M,Margin,2022-08-17,5292081.54,095-224-1472,waraporn.boo@email.com,Low,True
+C00070,Chutima Jitpakdi,Individual,Retail,Bangkok,Bangkok,46.0,M,Credit,2024-07-24,139850.1,087-961-2858,chutima.jit@email.com,High,True
+C00071,Patcharee Saengthong,Corporate,Corporate,North,Phitsanulok,,,Cash,2020-05-27,14987749.94,095-583-4993,patcharee.sae@email.com,High,True
+C00072,Somchai Phromwong,Institution,Institutional,Central,Nonthaburi,,,Margin,2023-07-15,59866719.29,093-448-9318,,Medium,True
+C00073,Somsak Suksawat,Individual,High Net Worth,South,Hat Yai,75.0,F,Credit,2020-03-25,6391467.17,084-557-9824,somsak.suk@email.com,Medium,True
+C00074,Sompong Thongsuk,Individual,Retail,Central,Chonburi,46.0,F,Credit,2022-12-08,640880.9,087-976-7730,sompong.tho@email.com,High,True
+C00075,Wichai Wongsuwan,Individual,Retail,Central,Ayutthaya,45.0,F,Cash,2024-11-16,97466.79,084-614-6439,wichai.won@email.com,High,True
+C00076,Prasert Srisawat,Institution,Institutional,Bangkok,Bangkok,,,Margin,2022-10-14,163878120.64,084-176-8692,prasert.sri@email.com,High,True
+C00077,Thawatchai Chaiyasit,Institution,Institutional,Bangkok,Bangkok,,,Credit,2020-04-21,33114369.82,097-489-6188,thawatchai.cha@email.com,High,False
+C00078,Suphachai Tangsiri,Individual,Retail,Bangkok,Bangkok,43.0,M,Credit,2021-07-18,1317761.73,089-332-2480,suphachai.tan@email.com,Low,True
+C00079,Anon Pongpanich,Individual,Retail,Bangkok,Bangkok,39.0,F,Margin,2023-04-07,243145.97,081-400-6873,anon.pon@email.com,High,True
+C00080,Kittisak Suwannapong,Institution,Institutional,Central,Pathum Thani,,,Margin,2024-08-22,29057311.57,099-991-7267,kittisak.suw@email.com,Low,True
+C00081,Chaiyaporn Rattanakit,Individual,Retail,North,Phitsanulok,54.0,M,Cash,2023-08-27,406868.5,080-923-8622,chaiyaporn.rat@email.com,Medium,True
+C00082,Nattapong Prasertchai,Institution,Institutional,South,Songkhla,,,Credit,2021-07-02,69541279.89,093-806-5097,nattapong.pra@email.com,Medium,True
+C00083,Worawit Wattanasin,Individual,Retail,Northeast,Udon Thani,47.0,F,Credit,2021-11-10,2305284.87,,worawit.wat@email.com,Low,True
+C00084,Siriwan Boonlert,Individual,Retail,Bangkok,Bangkok,35.0,M,Margin,2020-05-31,365247.66,089-894-4770,siriwan.boo@email.com,Medium,True
+C00085,Pornphan Jitpakdi,Institution,Institutional,Central,Nonthaburi,,,Cash,2021-07-25,77501712.42,081-416-8222,pornphan.jit@email.com,Low,True
+C00086,Napaporn Saengthong,Individual,High Net Worth,North,Phitsanulok,33.0,F,Cash,2024-02-06,4737810.42,086-235-9837,napaporn.sae@email.com,Medium,True
+C00087,Sasithorn Phromwong,Individual,High Net Worth,Northeast,Udon Thani,61.0,M,Margin,2020-11-24,11306641.0,090-923-2886,sasithorn.phr@email.com,High,True
+C00088,Kanokwan Suksawat,Institution,Institutional,Northeast,Udon Thani,,,Margin,2024-07-30,132230798.09,092-114-5332,kanokwan.suk@email.com,High,True
+C00089,Patcharin Thongsuk,Individual,Retail,South,Hat Yai,62.0,F,Margin,2020-06-21,524859.54,091-210-4830,patcharin.tho@email.com,Low,True
+C00090,Rattana Wongsuwan,Individual,High Net Worth,Northeast,Udon Thani,45.0,F,Cash,2021-06-11,10943097.37,093-219-3290,,Low,True
+C00091,Supaporn Srisawat,Institution,Institutional,South,Surat Thani,,,Cash,2022-11-27,30624120.36,094-479-9850,supaporn.sri@email.com,Medium,True
+C00092,Nanthana Chaiyasit,Individual,Retail,Northeast,Ubon Ratchathani,46.0,M,Credit,2023-07-08,18302.05,081-806-7070,nanthana.cha@email.com,Low,True
+C00093,Waraporn Tangsiri,Individual,Retail,North,Lampang,34.0,F,Cash,2024-09-28,391147.29,092-382-4109,waraporn.tan@email.com,High,True
+C00094,Chutima Pongpanich,Individual,Retail,South,Phuket,40.0,M,Margin,2024-10-19,19031.75,090-349-3063,chutima.pon@email.com,Low,True
+C00095,Patcharee Suwannapong,Individual,High Net Worth,Central,Samut Prakan,45.0,M,Margin,2020-09-28,5232925.12,084-907-1046,patcharee.suw@email.com,Medium,True
+C00096,Somchai Rattanakit,Individual,Retail,Bangkok,Bangkok,63.0,F,Cash,2024-05-06,121559.0,080-466-4898,,Low,True
+C00097,Somsak Prasertchai,Individual,Retail,South,Phuket,46.0,M,Credit,2020-11-25,44605.51,082-587-8344,somsak.pra@email.com,High,True
+C00098,Sompong Wattanasin,Individual,Retail,South,Phuket,73.0,F,Credit,2021-01-02,507268.72,096-408-8504,,Medium,True
+C00099,Wichai Boonlert,Individual,High Net Worth,Northeast,Ubon Ratchathani,67.0,F,Credit,2024-09-02,21617785.04,082-429-3430,wichai.boo@email.com,High,True
+C00100,Prasert Jitpakdi,Individual,Retail,Northeast,Ubon Ratchathani,57.0,F,Credit,2024-07-11,157925.73,083-973-4522,prasert.jit@email.com,Medium,True
+C00101,Thawatchai Saengthong,Individual,Retail,Bangkok,Bangkok,37.0,F,Cash,2022-09-09,40852.58,090-781-5176,thawatchai.sae@email.com,Low,True
+C00102,Suphachai Phromwong,Individual,Retail,Bangkok,Bangkok,35.0,F,Margin,2024-07-17,95153.27,091-931-3131,suphachai.phr@email.com,Low,True
+C00103,Anon Suksawat,Individual,Retail,Northeast,Khon Kaen,64.0,M,Margin,2023-06-21,144002.99,099-419-6761,anon.suk@email.com,Medium,True
+C00104,Kittisak Thongsuk,Individual,Retail,Bangkok,Bangkok,56.0,F,Margin,2020-05-05,164206.13,097-476-2882,kittisak.tho@email.com,High,True
+C00105,Chaiyaporn Wongsuwan,Corporate,Corporate,South,Phuket,,,Credit,2021-09-01,31780348.1,088-129-3955,chaiyaporn.won@email.com,Medium,False
+C00106,Nattapong Srisawat,Individual,Retail,Central,Chonburi,60.0,M,Margin,2021-05-25,473015.24,092-171-3324,nattapong.sri@email.com,High,True
+C00107,Worawit Chaiyasit,Individual,Retail,Northeast,Ubon Ratchathani,36.0,M,Cash,2023-03-04,709090.92,085-478-6105,worawit.cha@email.com,Low,True
+C00108,Siriwan Tangsiri,Individual,Retail,South,Phuket,29.0,F,Credit,2021-04-21,61690.2,082-378-8259,siriwan.tan@email.com,Medium,True
+C00109,Pornphan Pongpanich,Individual,Retail,South,Phuket,42.0,F,Cash,2023-02-24,51478.46,093-213-5640,pornphan.pon@email.com,Low,True
+C00110,Napaporn Suwannapong,Individual,Retail,South,Phuket,67.0,F,Credit,2025-01-15,320725.17,086-408-4460,napaporn.suw@email.com,Low,False
+C00111,Sasithorn Rattanakit,Individual,Retail,Northeast,Nakhon Ratchasima,25.0,F,Cash,2024-05-11,478361.22,092-645-4770,sasithorn.rat@email.com,Medium,True
+C00112,Kanokwan Prasertchai,Individual,Retail,Bangkok,Bangkok,29.0,F,Credit,2024-12-23,23181.16,094-179-6129,kanokwan.pra@email.com,Low,True
+C00113,Patcharin Wattanasin,Individual,Retail,North,Chiang Rai,45.0,M,Credit,2020-08-03,970674.73,099-571-6928,patcharin.wat@email.com,High,True
+C00114,Rattana Boonlert,Individual,High Net Worth,Bangkok,Bangkok,73.0,M,Margin,2020-03-15,3889264.34,089-863-6562,rattana.boo@email.com,High,True
+C00115,Supaporn Jitpakdi,Individual,Retail,South,Surat Thani,42.0,M,Cash,2020-09-24,440673.69,091-459-3419,supaporn.jit@email.com,High,True
+C00116,Nanthana Saengthong,Institution,Institutional,Bangkok,Bangkok,,,Margin,2020-10-01,52839122.28,095-575-8354,nanthana.sae@email.com,High,True
+C00117,Waraporn Phromwong,Individual,Retail,North,Lampang,45.0,F,Margin,2024-03-27,515413.58,094-169-8682,waraporn.phr@email.com,Low,True
+C00118,Chutima Suksawat,Individual,Retail,Bangkok,Bangkok,53.0,M,Margin,2022-06-30,243963.76,094-138-1932,chutima.suk@email.com,High,True
+C00119,Patcharee Thongsuk,Corporate,Corporate,Northeast,Khon Kaen,,,Cash,2022-07-24,52151523.68,098-767-4084,patcharee.tho@email.com,Low,True
+C00120,Somchai Wongsuwan,Individual,Retail,North,Chiang Mai,45.0,M,Credit,2022-04-03,35942.08,085-140-5059,somchai.won@email.com,Medium,True
+C00121,Somsak Srisawat,Individual,Retail,Northeast,Ubon Ratchathani,39.0,M,Credit,2020-09-27,192078.59,090-795-1857,somsak.sri@email.com,Low,True
+C00122,Sompong Chaiyasit,Individual,High Net Worth,Northeast,Udon Thani,47.0,M,Credit,2023-09-02,3117735.02,099-994-3463,sompong.cha@email.com,Medium,True
+C00123,Wichai Tangsiri,Individual,High Net Worth,Northeast,Nakhon Ratchasima,37.0,M,Margin,2021-09-30,8965777.04,082-417-7171,wichai.tan@email.com,High,True
+C00124,Prasert Pongpanich,Individual,Retail,South,Phuket,40.0,M,Credit,2021-06-17,1049707.91,,prasert.pon@email.com,Medium,True
+C00125,Thawatchai Suwannapong,Individual,High Net Worth,Central,Pathum Thani,37.0,M,Margin,2024-08-25,3976666.48,089-964-2657,thawatchai.suw@email.com,Medium,True
+C00126,Suphachai Rattanakit,Individual,High Net Worth,South,Surat Thani,55.0,M,Margin,2021-09-25,11221045.92,092-257-3658,suphachai.rat@email.com,Medium,False
+C00127,Anon Prasertchai,Corporate,Corporate,North,Chiang Rai,,,Credit,2022-08-05,15641587.08,099-391-8355,anon.pra@email.com,Low,True
+C00128,Kittisak Wattanasin,Individual,Retail,South,Hat Yai,36.0,M,Cash,2022-06-30,1335068.96,089-896-7256,kittisak.wat@email.com,High,True
+C00129,Chaiyaporn Boonlert,Institution,Institutional,North,Chiang Mai,,,Margin,2021-06-27,38017780.47,095-995-7081,chaiyaporn.boo@email.com,Low,True
+C00130,Nattapong Jitpakdi,Individual,High Net Worth,Central,Samut Prakan,58.0,F,Credit,2022-07-25,10023164.93,096-250-8167,nattapong.jit@email.com,Low,True
+C00131,Worawit Saengthong,Individual,Retail,Northeast,Udon Thani,45.0,M,Margin,2023-10-06,875666.28,092-183-7142,worawit.sae@email.com,High,True
+C00132,Siriwan Phromwong,Individual,Retail,Central,Pathum Thani,56.0,F,Credit,2024-11-13,1129395.26,089-949-8740,siriwan.phr@email.com,High,False
+C00133,Pornphan Suksawat,Individual,Retail,Bangkok,Bangkok,41.0,F,Cash,2023-08-25,1498486.19,086-955-3449,pornphan.suk@email.com,Medium,True
+C00134,Napaporn Thongsuk,Corporate,Corporate,Bangkok,Bangkok,,,Credit,2023-09-30,22039945.82,093-754-8489,napaporn.tho@email.com,High,True
+C00135,Sasithorn Wongsuwan,Individual,Retail,South,Krabi,37.0,F,Cash,2023-09-23,297507.33,,sasithorn.won@email.com,High,True
+C00136,Kanokwan Srisawat,Individual,Retail,South,Songkhla,59.0,M,Credit,2024-09-14,697918.94,096-657-9312,kanokwan.sri@email.com,Medium,False
+C00137,Patcharin Chaiyasit,Individual,High Net Worth,Northeast,Udon Thani,30.0,M,Margin,2023-08-30,10794155.16,080-465-2106,patcharin.cha@email.com,High,True
+C00138,Rattana Tangsiri,Individual,Retail,Central,Nonthaburi,36.0,F,Margin,2023-02-09,398730.66,097-446-3868,rattana.tan@email.com,Low,True
+C00139,Supaporn Pongpanich,Individual,Retail,Bangkok,Bangkok,44.0,F,Credit,2024-11-16,1093309.33,089-306-1717,supaporn.pon@email.com,High,True
+C00140,Nanthana Suwannapong,Individual,Retail,South,Hat Yai,52.0,M,Margin,2023-08-31,53304.36,081-871-4131,nanthana.suw@email.com,Medium,True
+C00141,Waraporn Rattanakit,Individual,Retail,North,Phitsanulok,61.0,F,Credit,2022-11-03,603604.24,094-495-6554,waraporn.rat@email.com,High,True
+C00142,Chutima Prasertchai,Individual,Retail,Bangkok,Bangkok,51.0,M,Credit,2024-08-22,42424.38,093-716-3956,chutima.pra@email.com,High,True
+C00143,Patcharee Wattanasin,Individual,Retail,Northeast,Ubon Ratchathani,55.0,F,Margin,2024-02-24,2157729.28,094-459-8325,patcharee.wat@email.com,Medium,True
+C00144,Somchai Boonlert,Individual,Retail,Bangkok,Bangkok,58.0,M,Cash,2021-04-27,1471082.27,092-472-9406,somchai.boo@email.com,High,True
+C00145,Somsak Jitpakdi,Corporate,Corporate,Northeast,Khon Kaen,,,Cash,2024-05-17,32997984.6,082-341-7001,somsak.jit@email.com,High,True
+C00146,Sompong Saengthong,Individual,Retail,Northeast,Udon Thani,39.0,F,Credit,2022-12-31,43597.0,094-881-2259,sompong.sae@email.com,High,True
+C00147,Wichai Phromwong,Individual,High Net Worth,Bangkok,Bangkok,25.0,F,Credit,2020-12-16,14841188.38,085-611-9482,wichai.phr@email.com,High,True
+C00148,Prasert Suksawat,Individual,Retail,South,Songkhla,63.0,M,Margin,2021-03-11,339252.55,095-304-3009,prasert.suk@email.com,Medium,True
+C00149,Thawatchai Thongsuk,Individual,Retail,North,Lampang,36.0,M,Margin,2021-02-07,63245.5,082-663-9882,thawatchai.tho@email.com,High,True
+C00150,Suphachai Wongsuwan,Individual,Retail,Central,Samut Prakan,44.0,F,Cash,2022-03-26,523784.19,087-224-4292,suphachai.won@email.com,Medium,True
+C00151,Anon Srisawat,Individual,High Net Worth,North,Phitsanulok,50.0,F,Margin,2020-07-30,5348982.89,097-232-2412,anon.sri@email.com,Medium,True
+C00152,Kittisak Chaiyasit,Individual,Retail,South,Phuket,46.0,F,Cash,2024-05-19,1014751.27,090-757-2215,kittisak.cha@email.com,High,True
+C00153,Chaiyaporn Tangsiri,Individual,Retail,Central,Pathum Thani,45.0,F,Cash,2022-08-28,2478414.3,096-989-1907,chaiyaporn.tan@email.com,Low,True
+C00154,Nattapong Pongpanich,Individual,Retail,Central,Samut Prakan,56.0,F,Cash,2022-03-05,403554.83,089-966-2292,nattapong.pon@email.com,High,True
+C00155,Worawit Suwannapong,Corporate,Corporate,South,Phuket,,,Margin,2022-04-07,19808878.66,085-706-3526,worawit.suw@email.com,Medium,True
+C00156,Siriwan Rattanakit,Individual,Retail,South,Phuket,39.0,F,Margin,2020-06-15,493837.09,080-183-1744,siriwan.rat@email.com,Low,True
+C00157,Pornphan Prasertchai,Individual,Retail,Northeast,Khon Kaen,67.0,F,Credit,2022-04-17,1157116.38,097-396-5949,pornphan.pra@email.com,Medium,True
+C00158,Napaporn Wattanasin,Individual,Retail,Bangkok,Bangkok,43.0,F,Margin,2022-08-14,483966.51,093-595-8609,napaporn.wat@email.com,Medium,True
+C00159,Sasithorn Boonlert,Individual,Retail,North,Phitsanulok,56.0,F,Credit,2024-05-08,104202.08,091-627-2739,sasithorn.boo@email.com,Low,True
+C00160,Kanokwan Jitpakdi,Individual,Retail,Bangkok,Bangkok,57.0,F,Margin,2022-12-06,40461.14,099-528-5067,kanokwan.jit@email.com,High,True
+C00161,Patcharin Saengthong,Corporate,Corporate,Central,Ayutthaya,,,Credit,2022-03-13,90677311.51,094-610-6055,patcharin.sae@email.com,High,True
+C00162,Rattana Phromwong,Individual,High Net Worth,Central,Pathum Thani,25.0,F,Credit,2021-10-24,6840392.17,091-149-1828,rattana.phr@email.com,High,False
+C00163,Supaporn Suksawat,Individual,Retail,Bangkok,Bangkok,51.0,F,Cash,2024-05-01,88736.83,088-844-6992,supaporn.suk@email.com,High,True
+C00164,Nanthana Thongsuk,Institution,Institutional,North,Lampang,,,Margin,2024-09-02,96449725.57,092-616-8378,nanthana.tho@email.com,High,True
+C00165,Waraporn Wongsuwan,Institution,Institutional,Central,Nonthaburi,,,Cash,2022-11-16,74680200.21,091-913-6555,waraporn.won@email.com,Low,True
+C00166,Chutima Srisawat,Individual,Retail,Northeast,Khon Kaen,56.0,M,Margin,2024-10-30,270851.25,081-240-6456,chutima.sri@email.com,High,True
+C00167,Patcharee Chaiyasit,Institution,Institutional,South,Songkhla,,,Margin,2024-03-04,110519619.0,092-731-5902,patcharee.cha@email.com,High,True
+C00168,Somchai Tangsiri,Individual,Retail,South,Songkhla,44.0,F,Margin,2022-06-03,831823.86,080-477-6427,somchai.tan@email.com,High,True
+C00169,Somsak Pongpanich,Corporate,Corporate,South,Hat Yai,,,Cash,2023-08-06,8260190.2,098-691-4728,somsak.pon@email.com,High,True
+C00170,Sompong Suwannapong,Individual,Retail,South,Hat Yai,41.0,F,Cash,2024-04-03,239736.85,087-132-2800,sompong.suw@email.com,Medium,True
+C00171,Wichai Rattanakit,Corporate,Corporate,Northeast,Ubon Ratchathani,,,Margin,2020-03-10,41918264.15,081-822-3262,wichai.rat@email.com,Medium,True
+C00172,Prasert Prasertchai,Individual,High Net Worth,North,Chiang Rai,25.0,F,Margin,2022-07-04,4596944.46,097-450-9950,prasert.pra@email.com,Medium,True
+C00173,Thawatchai Wattanasin,Individual,Retail,Central,Samut Prakan,34.0,F,Credit,2021-12-15,1000213.07,089-330-5876,thawatchai.wat@email.com,Medium,True
+C00174,Suphachai Boonlert,Individual,High Net Worth,North,Lampang,63.0,F,Cash,2024-05-26,17480858.41,098-792-9899,suphachai.boo@email.com,Medium,False
+C00175,Anon Jitpakdi,Individual,High Net Worth,Bangkok,Bangkok,48.0,F,Margin,2022-08-09,4420762.22,088-865-8849,anon.jit@email.com,High,True
+C00176,Kittisak Saengthong,Individual,Retail,Bangkok,Bangkok,28.0,M,Credit,2023-09-22,556914.77,081-785-9700,kittisak.sae@email.com,Medium,True
+C00177,Chaiyaporn Phromwong,Individual,Retail,Bangkok,Bangkok,51.0,F,Credit,2025-01-20,221710.23,097-261-7666,chaiyaporn.phr@email.com,High,True
+C00178,Nattapong Suksawat,Individual,Retail,North,Lampang,47.0,M,Cash,2023-06-26,739903.54,081-887-2465,nattapong.suk@email.com,Medium,True
+C00179,Worawit Thongsuk,Individual,Retail,Central,Nonthaburi,69.0,F,Cash,2020-05-24,955885.06,092-906-9116,worawit.tho@email.com,Low,True
+C00180,Siriwan Wongsuwan,Individual,Retail,South,Phuket,57.0,M,Margin,2023-03-16,258323.66,089-565-9901,siriwan.won@email.com,Medium,True
+C00181,Pornphan Srisawat,Individual,Retail,Bangkok,Bangkok,46.0,F,Credit,2024-03-04,14602.51,094-763-5215,,High,True
+C00182,Napaporn Chaiyasit,Individual,High Net Worth,Central,Pathum Thani,62.0,M,Cash,2021-08-28,4197407.47,092-946-8007,napaporn.cha@email.com,Low,True
+C00183,Sasithorn Tangsiri,Individual,Retail,Central,Nonthaburi,55.0,F,Margin,2023-08-15,7325.74,092-341-8319,sasithorn.tan@email.com,High,True
+C00184,Kanokwan Pongpanich,Individual,Retail,North,Lampang,25.0,F,Margin,2021-03-14,287659.78,087-163-2936,kanokwan.pon@email.com,Low,True
+C00185,Patcharin Suwannapong,Institution,Institutional,North,Lampang,,,Margin,2021-08-21,31405130.72,087-324-3188,patcharin.suw@email.com,Medium,True
+C00186,Rattana Rattanakit,Individual,Retail,South,Hat Yai,62.0,M,Margin,2020-11-01,765435.87,097-921-4578,rattana.rat@email.com,Medium,True
+C00187,Supaporn Prasertchai,Individual,Retail,North,Chiang Mai,56.0,M,Cash,2021-12-02,1493095.21,083-163-9972,supaporn.pra@email.com,Medium,True
+C00188,Nanthana Wattanasin,Individual,Retail,Northeast,Khon Kaen,48.0,M,Credit,2021-04-08,1305831.38,086-834-9008,nanthana.wat@email.com,Low,True
+C00189,Waraporn Boonlert,Individual,Retail,Northeast,Khon Kaen,41.0,M,Margin,2021-12-13,1956826.55,094-788-6049,waraporn.boo@email.com,Low,True
+C00190,Chutima Jitpakdi,Individual,Retail,Bangkok,Bangkok,25.0,F,Cash,2023-02-25,199308.02,082-654-1987,chutima.jit@email.com,Medium,True
+C00191,Patcharee Saengthong,Individual,Retail,Central,Ayutthaya,43.0,M,Margin,2022-12-26,68987.61,092-559-7184,patcharee.sae@email.com,Medium,True
+C00192,Somchai Phromwong,Individual,Retail,South,Hat Yai,44.0,F,Credit,2022-02-12,82379.95,084-845-4648,somchai.phr@email.com,High,True
+C00193,Somsak Suksawat,Individual,Retail,Northeast,Ubon Ratchathani,31.0,M,Cash,2020-06-19,212069.66,087-353-8546,somsak.suk@email.com,High,True
+C00194,Sompong Thongsuk,Institution,Institutional,Bangkok,Bangkok,,,Cash,2023-12-05,42119057.08,082-203-1550,sompong.tho@email.com,Low,True
+C00195,Wichai Wongsuwan,Individual,High Net Worth,Northeast,Ubon Ratchathani,50.0,M,Margin,2023-10-09,3945642.59,097-322-1924,wichai.won@email.com,High,True
+C00196,Prasert Srisawat,Individual,Retail,South,Songkhla,35.0,F,Credit,2023-10-03,46442.95,089-997-3347,prasert.sri@email.com,Medium,True
+C00197,Thawatchai Chaiyasit,Individual,Retail,South,Surat Thani,38.0,F,Margin,2021-07-28,308814.67,093-669-9120,thawatchai.cha@email.com,Medium,True
+C00198,Suphachai Tangsiri,Individual,Retail,Northeast,Nakhon Ratchasima,45.0,F,Margin,2023-05-27,586228.72,092-288-9813,suphachai.tan@email.com,Low,True
+C00199,Anon Pongpanich,Individual,Retail,Bangkok,Bangkok,25.0,F,Margin,2022-09-30,803247.12,097-642-3196,anon.pon@email.com,Low,True
+C00200,Kittisak Suwannapong,Individual,Retail,North,Chiang Mai,55.0,M,Cash,2022-01-30,689678.62,086-152-5398,kittisak.suw@email.com,Low,True
+C00201,Chaiyaporn Rattanakit,Individual,Retail,South,Krabi,37.0,M,Cash,2023-11-13,117449.52,095-313-6455,chaiyaporn.rat@email.com,High,True
+C00202,Nattapong Prasertchai,Individual,Retail,Northeast,Nakhon Ratchasima,73.0,F,Credit,2021-03-08,230156.28,099-820-4350,nattapong.pra@email.com,Medium,True
+C00203,Worawit Wattanasin,Individual,Retail,North,Lampang,41.0,F,Credit,2023-08-14,688114.47,091-625-9147,worawit.wat@email.com,Low,True
+C00204,Siriwan Boonlert,Individual,Retail,Northeast,Khon Kaen,55.0,F,Credit,2021-12-05,1127883.38,,siriwan.boo@email.com,Low,True
+C00205,Pornphan Jitpakdi,Individual,Retail,Central,Ayutthaya,33.0,F,Credit,2021-11-21,379764.75,087-611-6530,pornphan.jit@email.com,Low,True
+C00206,Napaporn Saengthong,Individual,Retail,North,Chiang Rai,63.0,M,Margin,2024-04-19,138846.4,097-600-4015,napaporn.sae@email.com,Low,True
+C00207,Sasithorn Phromwong,Individual,Retail,Bangkok,Bangkok,25.0,M,Cash,2020-10-18,236832.49,080-522-3252,sasithorn.phr@email.com,Low,True
+C00208,Kanokwan Suksawat,Individual,Retail,North,Chiang Mai,32.0,F,Cash,2021-08-14,198374.62,,kanokwan.suk@email.com,Low,True
+C00209,Patcharin Thongsuk,Individual,Retail,North,Lampang,37.0,M,Cash,2024-12-26,1106039.95,096-932-8054,patcharin.tho@email.com,High,True
+C00210,Rattana Wongsuwan,Individual,Retail,Central,Chonburi,57.0,F,Credit,2022-02-17,345018.21,088-934-6807,rattana.won@email.com,Medium,True
+C00211,Supaporn Srisawat,Individual,Retail,Central,Samut Prakan,52.0,F,Cash,2021-04-01,385129.18,082-769-1519,supaporn.sri@email.com,High,False
+C00212,Nanthana Chaiyasit,Individual,Retail,Central,Nonthaburi,39.0,M,Margin,2022-04-13,68242.33,093-760-6427,nanthana.cha@email.com,Low,True
+C00213,Waraporn Tangsiri,Individual,Retail,South,Hat Yai,63.0,M,Cash,2023-07-25,225557.41,081-176-5593,waraporn.tan@email.com,Medium,False
+C00214,Chutima Pongpanich,Individual,Retail,Central,Chonburi,25.0,F,Margin,2024-04-10,2153097.89,092-178-5903,chutima.pon@email.com,High,True
+C00215,Patcharee Suwannapong,Individual,Retail,Central,Nonthaburi,56.0,F,Margin,2022-04-11,135397.26,091-154-2600,patcharee.suw@email.com,High,True
+C00216,Somchai Rattanakit,Individual,Retail,Northeast,Udon Thani,39.0,F,Credit,2024-12-01,87582.44,088-902-8381,somchai.rat@email.com,Low,True
+C00217,Somsak Prasertchai,Individual,Retail,Northeast,Khon Kaen,37.0,M,Credit,2020-10-02,167802.92,099-402-5037,somsak.pra@email.com,High,True
+C00218,Sompong Wattanasin,Individual,Retail,Central,Ayutthaya,25.0,F,Credit,2023-04-23,2019321.08,,sompong.wat@email.com,Low,True
+C00219,Wichai Boonlert,Individual,Retail,Central,Ayutthaya,53.0,F,Margin,2022-07-26,253629.0,097-668-9395,,Low,True
+C00220,Prasert Jitpakdi,Corporate,Corporate,North,Phitsanulok,,,Margin,2025-01-05,45124881.24,089-523-7353,prasert.jit@email.com,Low,True
+C00221,Thawatchai Saengthong,Individual,High Net Worth,Central,Ayutthaya,36.0,M,Credit,2024-02-18,8522797.99,084-375-5933,thawatchai.sae@email.com,Medium,True
+C00222,Suphachai Phromwong,Institution,Institutional,Northeast,Khon Kaen,,,Cash,2023-01-22,50682521.1,088-352-9123,suphachai.phr@email.com,Low,True
+C00223,Anon Suksawat,Individual,Retail,Northeast,Udon Thani,38.0,M,Credit,2020-05-13,164237.52,099-489-6399,anon.suk@email.com,Medium,True
+C00224,Kittisak Thongsuk,Individual,High Net Worth,Central,Ayutthaya,38.0,F,Margin,2023-04-28,5770722.75,085-507-6228,kittisak.tho@email.com,Low,True
+C00225,Chaiyaporn Wongsuwan,Individual,Retail,North,Phitsanulok,32.0,M,Margin,2023-01-14,138806.29,083-677-4273,chaiyaporn.won@email.com,Medium,True
+C00226,Nattapong Srisawat,Individual,Retail,Central,Ayutthaya,26.0,F,Margin,2020-08-11,435226.53,089-951-2133,nattapong.sri@email.com,Medium,True
+C00227,Worawit Chaiyasit,Individual,Retail,North,Chiang Rai,54.0,F,Margin,2023-09-01,328060.69,084-832-7932,worawit.cha@email.com,Medium,True
+C00228,Siriwan Tangsiri,Individual,Retail,Northeast,Khon Kaen,43.0,M,Cash,2020-08-25,72174.66,091-818-9796,siriwan.tan@email.com,High,True
+C00229,Pornphan Pongpanich,Individual,Retail,Central,Chonburi,40.0,F,Cash,2024-11-01,2300600.66,098-760-7547,pornphan.pon@email.com,Low,True
+C00230,Napaporn Suwannapong,Individual,Retail,Central,Chonburi,37.0,M,Credit,2020-11-23,572070.68,096-671-4621,napaporn.suw@email.com,Low,True
+C00231,Sasithorn Rattanakit,Individual,High Net Worth,North,Phitsanulok,54.0,M,Margin,2024-08-08,7527232.97,083-951-3321,sasithorn.rat@email.com,Medium,True
+C00232,Kanokwan Prasertchai,Individual,Retail,Bangkok,Bangkok,25.0,M,Cash,2021-01-13,1326278.02,094-426-2100,kanokwan.pra@email.com,Medium,True
+C00233,Patcharin Wattanasin,Individual,High Net Worth,Central,Pathum Thani,32.0,F,Cash,2022-03-11,19765881.95,085-665-3623,patcharin.wat@email.com,Medium,True
+C00234,Rattana Boonlert,Individual,Retail,Central,Ayutthaya,47.0,M,Margin,2022-11-12,99977.9,080-855-4232,rattana.boo@email.com,Low,True
+C00235,Supaporn Jitpakdi,Individual,Retail,Bangkok,Bangkok,46.0,F,Margin,2020-08-07,675696.58,097-291-6993,supaporn.jit@email.com,Medium,True
+C00236,Nanthana Saengthong,Individual,Retail,North,Phitsanulok,43.0,M,Margin,2021-08-28,793025.06,092-701-2871,nanthana.sae@email.com,High,True
+C00237,Waraporn Phromwong,Individual,Retail,South,Krabi,46.0,F,Margin,2024-08-10,89357.6,084-420-2931,waraporn.phr@email.com,Low,True
+C00238,Chutima Suksawat,Individual,Retail,Northeast,Nakhon Ratchasima,51.0,M,Margin,2021-11-10,370187.98,092-533-4043,chutima.suk@email.com,Low,True
+C00239,Patcharee Thongsuk,Individual,Retail,Central,Pathum Thani,57.0,F,Cash,2023-04-27,1048601.33,094-734-1878,patcharee.tho@email.com,Low,True
+C00240,Somchai Wongsuwan,Individual,Retail,South,Krabi,41.0,F,Cash,2021-06-03,236559.78,095-518-9056,somchai.won@email.com,Low,True
+C00241,Somsak Srisawat,Individual,Retail,Central,Samut Prakan,60.0,F,Margin,2024-11-25,179322.64,088-330-9808,somsak.sri@email.com,High,True
+C00242,Sompong Chaiyasit,Individual,High Net Worth,Bangkok,Bangkok,26.0,F,Margin,2020-09-26,14491699.25,097-943-7010,sompong.cha@email.com,Low,True
+C00243,Wichai Tangsiri,Individual,Retail,Bangkok,Bangkok,45.0,F,Cash,2023-06-01,392141.19,081-560-5305,wichai.tan@email.com,Low,True
+C00244,Prasert Pongpanich,Institution,Institutional,South,Songkhla,,,Cash,2020-04-03,58939965.19,099-747-8015,prasert.pon@email.com,Low,True
+C00245,Thawatchai Suwannapong,Individual,Retail,South,Songkhla,46.0,F,Credit,2022-02-05,203913.16,088-711-9827,thawatchai.suw@email.com,High,True
+C00246,Suphachai Rattanakit,Individual,Retail,South,Phuket,51.0,M,Cash,2024-04-28,790000.7,093-160-5543,suphachai.rat@email.com,Low,True
+C00247,Anon Prasertchai,Individual,Retail,Central,Ayutthaya,56.0,M,Margin,2022-05-04,776995.01,084-691-5402,anon.pra@email.com,Low,True
+C00248,Kittisak Wattanasin,Individual,Retail,North,Lampang,45.0,M,Margin,2022-07-14,186781.28,095-435-1040,kittisak.wat@email.com,Medium,True
+C00249,Chaiyaporn Boonlert,Individual,Retail,North,Chiang Mai,63.0,F,Credit,2020-08-15,1046833.67,097-507-4568,chaiyaporn.boo@email.com,Medium,True
+C00250,Nattapong Jitpakdi,Individual,Retail,North,Chiang Rai,49.0,M,Cash,2021-11-28,860903.98,095-907-6631,nattapong.jit@email.com,High,True
+C00251,Worawit Saengthong,Individual,Retail,Northeast,Khon Kaen,60.0,M,Margin,2024-05-21,81210.89,,worawit.sae@email.com,Low,True
+C00252,Siriwan Phromwong,Individual,Retail,North,Chiang Rai,39.0,M,Cash,2020-03-07,640521.55,088-195-6905,siriwan.phr@email.com,Medium,True
+C00253,Pornphan Suksawat,Individual,High Net Worth,Central,Ayutthaya,61.0,M,Margin,2021-05-29,6912345.51,,pornphan.suk@email.com,Low,True
+C00254,Napaporn Thongsuk,Individual,Retail,Northeast,Khon Kaen,57.0,M,Credit,2025-01-14,212091.6,090-936-2975,napaporn.tho@email.com,Low,True
+C00255,Sasithorn Wongsuwan,Individual,Retail,Bangkok,Bangkok,47.0,M,Margin,2024-07-03,256122.83,090-476-5902,sasithorn.won@email.com,High,True
+C00256,Kanokwan Srisawat,Individual,Retail,South,Krabi,55.0,M,Credit,2025-01-13,1471411.87,099-765-3688,kanokwan.sri@email.com,High,True
+C00257,Patcharin Chaiyasit,Individual,Retail,Central,Nonthaburi,47.0,F,Credit,2024-07-09,472672.16,084-870-3017,patcharin.cha@email.com,Low,True
+C00258,Rattana Tangsiri,Individual,Retail,Bangkok,Bangkok,75.0,F,Cash,2021-12-24,1028346.76,099-714-5668,rattana.tan@email.com,High,True
+C00259,Supaporn Pongpanich,Institution,Institutional,Central,Ayutthaya,,,Credit,2023-06-05,51635773.2,081-902-4921,supaporn.pon@email.com,High,True
+C00260,Nanthana Suwannapong,Individual,High Net Worth,South,Phuket,47.0,F,Margin,2023-01-22,3827552.55,090-235-7337,nanthana.suw@email.com,High,True
+C00261,Waraporn Rattanakit,Individual,Retail,Northeast,Khon Kaen,50.0,M,Credit,2024-12-27,466610.43,098-169-1225,,High,True
+C00262,Chutima Prasertchai,Individual,Retail,South,Hat Yai,47.0,M,Credit,2022-09-16,1298938.11,092-184-9791,chutima.pra@email.com,Low,True
+C00263,Patcharee Wattanasin,Individual,Retail,Central,Pathum Thani,46.0,M,Cash,2022-01-28,60089.35,090-500-2083,patcharee.wat@email.com,Low,True
+C00264,Somchai Boonlert,Corporate,Corporate,Northeast,Khon Kaen,,,Margin,2022-07-17,41514362.22,099-723-1901,somchai.boo@email.com,Low,True
+C00265,Somsak Jitpakdi,Individual,Retail,Central,Nonthaburi,75.0,F,Cash,2024-03-01,254582.42,095-455-9568,somsak.jit@email.com,Medium,True
+C00266,Sompong Saengthong,Individual,Retail,North,Chiang Mai,51.0,M,Credit,2020-10-04,204132.44,080-443-8034,sompong.sae@email.com,Medium,True
+C00267,Wichai Phromwong,Individual,High Net Worth,Bangkok,Bangkok,55.0,M,Cash,2020-04-07,15619627.38,098-270-7024,wichai.phr@email.com,High,True
+C00268,Prasert Suksawat,Individual,Retail,Bangkok,Bangkok,25.0,M,Margin,2023-09-18,213053.24,081-583-6963,prasert.suk@email.com,High,True
+C00269,Thawatchai Thongsuk,Individual,High Net Worth,Northeast,Nakhon Ratchasima,26.0,F,Cash,2023-04-12,6011411.75,087-526-6241,thawatchai.tho@email.com,High,True
+C00270,Suphachai Wongsuwan,Individual,Retail,Bangkok,Bangkok,41.0,F,Credit,2023-10-31,97027.25,096-147-7568,suphachai.won@email.com,Medium,True
+C00271,Anon Srisawat,Individual,Retail,Northeast,Khon Kaen,54.0,F,Margin,2023-01-06,225017.29,086-398-5979,anon.sri@email.com,Medium,True
+C00272,Kittisak Chaiyasit,Individual,Retail,Central,Chonburi,43.0,F,Margin,2020-10-26,500195.39,087-254-1104,,High,True
+C00273,Chaiyaporn Tangsiri,Individual,Retail,North,Chiang Mai,32.0,M,Credit,2020-10-29,1622999.14,092-969-6038,chaiyaporn.tan@email.com,Medium,True
+C00274,Nattapong Pongpanich,Individual,Retail,Central,Samut Prakan,51.0,F,Margin,2024-07-24,267750.56,081-337-9515,nattapong.pon@email.com,Low,True
+C00275,Worawit Suwannapong,Individual,Retail,South,Surat Thani,45.0,M,Credit,2021-07-05,452409.66,092-176-2020,worawit.suw@email.com,Medium,True
+C00276,Siriwan Rattanakit,Individual,Retail,Northeast,Udon Thani,46.0,M,Cash,2023-04-20,693068.13,094-378-4827,siriwan.rat@email.com,Low,True
+C00277,Pornphan Prasertchai,Individual,Retail,Northeast,Udon Thani,43.0,F,Credit,2022-10-21,105785.21,083-648-6870,pornphan.pra@email.com,Medium,True
+C00278,Napaporn Wattanasin,Individual,Retail,Bangkok,Bangkok,46.0,M,Cash,2020-07-22,319392.9,089-946-1660,napaporn.wat@email.com,High,True
+C00279,Sasithorn Boonlert,Individual,Retail,North,Phitsanulok,61.0,M,Credit,2022-03-16,290590.74,081-793-5896,sasithorn.boo@email.com,Medium,True
+C00280,Kanokwan Jitpakdi,Individual,Retail,South,Surat Thani,25.0,M,Cash,2024-07-21,410081.73,094-204-3290,kanokwan.jit@email.com,Low,True
+C00281,Patcharin Saengthong,Individual,Retail,North,Chiang Mai,48.0,F,Cash,2021-10-26,1460455.85,,patcharin.sae@email.com,Low,True
+C00282,Rattana Phromwong,Individual,Retail,North,Chiang Mai,41.0,F,Credit,2024-11-04,157865.68,094-151-3752,rattana.phr@email.com,Low,True
+C00283,Supaporn Suksawat,Individual,Retail,Northeast,Nakhon Ratchasima,40.0,M,Margin,2023-02-06,84891.8,086-291-5505,supaporn.suk@email.com,High,True
+C00284,Nanthana Thongsuk,Individual,High Net Worth,North,Phitsanulok,44.0,F,Cash,2022-10-10,8378248.91,097-590-1999,nanthana.tho@email.com,High,True
+C00285,Waraporn Wongsuwan,Individual,Retail,South,Surat Thani,36.0,F,Credit,2021-07-19,557207.36,097-913-1319,waraporn.won@email.com,High,True
+C00286,Chutima Srisawat,Individual,Retail,North,Lampang,36.0,F,Cash,2022-11-27,54968.03,088-284-1427,chutima.sri@email.com,Medium,True
+C00287,Patcharee Chaiyasit,Individual,High Net Worth,South,Surat Thani,51.0,M,Cash,2024-03-10,4360243.11,083-353-4951,patcharee.cha@email.com,High,True
+C00288,Somchai Tangsiri,Individual,Retail,Northeast,Udon Thani,32.0,F,Margin,2020-05-18,139309.76,085-280-4875,somchai.tan@email.com,Low,True
+C00289,Somsak Pongpanich,Individual,High Net Worth,North,Chiang Rai,47.0,M,Cash,2021-12-04,5530712.45,086-956-9064,somsak.pon@email.com,Low,True
+C00290,Sompong Suwannapong,Individual,High Net Worth,Central,Nonthaburi,48.0,M,Credit,2022-02-17,4146967.05,095-100-6435,sompong.suw@email.com,High,True
+C00291,Wichai Rattanakit,Individual,Retail,North,Chiang Mai,25.0,F,Cash,2024-12-17,1115931.51,084-700-3320,wichai.rat@email.com,Medium,True
+C00292,Prasert Prasertchai,Individual,High Net Worth,Northeast,Khon Kaen,66.0,F,Margin,2023-03-13,5091364.03,089-430-3235,prasert.pra@email.com,Medium,True
+C00293,Thawatchai Wattanasin,Individual,Retail,Central,Chonburi,60.0,M,Credit,2021-03-12,156030.85,099-905-6846,thawatchai.wat@email.com,Medium,True
+C00294,Suphachai Boonlert,Individual,Retail,North,Chiang Rai,25.0,M,Cash,2024-02-02,263318.02,080-818-7415,suphachai.boo@email.com,High,True
+C00295,Anon Jitpakdi,Individual,Retail,South,Surat Thani,25.0,M,Credit,2021-07-01,1482633.61,098-206-9129,anon.jit@email.com,Medium,True
+C00296,Kittisak Saengthong,Individual,High Net Worth,Bangkok,Bangkok,38.0,F,Cash,2022-07-31,3754772.49,080-371-4435,kittisak.sae@email.com,High,False
+C00297,Chaiyaporn Phromwong,Institution,Institutional,Northeast,Ubon Ratchathani,,,Margin,2020-12-22,43416016.48,093-270-7783,chaiyaporn.phr@email.com,Medium,True
+C00298,Nattapong Suksawat,Institution,Institutional,Northeast,Nakhon Ratchasima,,,Cash,2024-03-03,90435722.7,094-175-1547,nattapong.suk@email.com,Low,True
+C00299,Worawit Thongsuk,Individual,Retail,Northeast,Nakhon Ratchasima,70.0,F,Margin,2020-12-23,149127.34,082-660-2525,worawit.tho@email.com,Low,True
+C00300,Siriwan Wongsuwan,Individual,Retail,Central,Chonburi,53.0,F,Margin,2022-08-25,900693.54,085-154-2659,siriwan.won@email.com,High,True
+C00301,Pornphan Srisawat,Corporate,Corporate,South,Songkhla,,,Margin,2021-05-19,19917890.94,089-404-4891,pornphan.sri@email.com,Medium,True
+C00302,Napaporn Chaiyasit,Individual,Retail,North,Chiang Mai,25.0,M,Margin,2022-09-08,403917.76,082-401-8869,,Medium,True
+C00303,Sasithorn Tangsiri,Individual,High Net Worth,Northeast,Khon Kaen,51.0,F,Cash,2023-05-10,11852195.96,092-582-9013,sasithorn.tan@email.com,Medium,True
+C00304,Kanokwan Pongpanich,Individual,Retail,North,Chiang Rai,64.0,F,Margin,2022-08-02,546867.11,081-369-8204,kanokwan.pon@email.com,Low,True
+C00305,Patcharin Suwannapong,Individual,Retail,Bangkok,Bangkok,63.0,M,Margin,2021-05-03,1229104.78,091-927-9871,patcharin.suw@email.com,Low,True
+C00306,Rattana Rattanakit,Individual,Retail,South,Hat Yai,49.0,M,Margin,2022-01-30,24052.33,095-686-4860,rattana.rat@email.com,High,True
+C00307,Supaporn Prasertchai,Individual,Retail,South,Krabi,25.0,M,Cash,2024-04-04,669769.55,083-875-8357,supaporn.pra@email.com,Low,False
+C00308,Nanthana Wattanasin,Individual,Retail,Bangkok,Bangkok,27.0,M,Cash,2023-12-14,246571.13,084-954-5225,nanthana.wat@email.com,Medium,True
+C00309,Waraporn Boonlert,Individual,Retail,South,Songkhla,51.0,F,Cash,2020-04-12,219774.24,088-632-8506,,Medium,True
+C00310,Chutima Jitpakdi,Individual,High Net Worth,South,Krabi,51.0,F,Credit,2021-10-25,6231798.93,083-208-2654,chutima.jit@email.com,Medium,True
+C00311,Patcharee Saengthong,Individual,High Net Worth,Northeast,Ubon Ratchathani,25.0,F,Cash,2024-11-15,16809608.24,085-382-7602,patcharee.sae@email.com,Medium,True
+C00312,Somchai Phromwong,Individual,High Net Worth,North,Chiang Rai,52.0,F,Credit,2024-10-22,3263976.39,,somchai.phr@email.com,Medium,True
+C00313,Somsak Suksawat,Individual,Retail,Bangkok,Bangkok,26.0,F,Margin,2024-04-30,454214.42,089-861-8259,somsak.suk@email.com,High,True
+C00314,Sompong Thongsuk,Individual,Retail,Northeast,Nakhon Ratchasima,40.0,M,Margin,2020-06-18,39055.25,093-858-8937,sompong.tho@email.com,Low,True
+C00315,Wichai Wongsuwan,Individual,High Net Worth,South,Hat Yai,47.0,M,Cash,2024-04-28,6420851.13,096-682-1474,wichai.won@email.com,Low,False
+C00316,Prasert Srisawat,Individual,High Net Worth,Bangkok,Bangkok,26.0,M,Margin,2021-02-17,11549118.49,086-380-7035,prasert.sri@email.com,Low,True
+C00317,Thawatchai Chaiyasit,Individual,High Net Worth,Northeast,Ubon Ratchathani,40.0,F,Margin,2024-02-02,8932244.1,095-700-6730,thawatchai.cha@email.com,High,True
+C00318,Suphachai Tangsiri,Individual,Retail,Bangkok,Bangkok,25.0,M,Credit,2024-10-21,48025.37,085-974-4511,suphachai.tan@email.com,High,True
+C00319,Anon Pongpanich,Institution,Institutional,Bangkok,Bangkok,,,Credit,2022-06-05,17356522.44,084-762-3837,,High,True
+C00320,Kittisak Suwannapong,Corporate,Corporate,North,Lampang,,,Credit,2022-09-16,16812020.26,092-972-6713,kittisak.suw@email.com,High,True
+C00321,Chaiyaporn Rattanakit,Individual,Retail,South,Hat Yai,58.0,F,Margin,2021-10-21,390334.92,083-107-9380,chaiyaporn.rat@email.com,High,True
+C00322,Nattapong Prasertchai,Institution,Institutional,North,Lampang,,,Credit,2021-03-31,75880388.96,083-593-2045,nattapong.pra@email.com,Medium,True
+C00323,Worawit Wattanasin,Individual,High Net Worth,North,Chiang Rai,60.0,F,Margin,2024-03-29,12458859.94,096-883-4937,worawit.wat@email.com,Medium,True
+C00324,Siriwan Boonlert,Individual,Retail,Bangkok,Bangkok,57.0,M,Credit,2023-06-05,336108.83,088-528-7628,,High,True
+C00325,Pornphan Jitpakdi,Individual,Retail,South,Hat Yai,54.0,M,Credit,2021-04-26,17267.76,091-619-5918,pornphan.jit@email.com,Low,True
+C00326,Napaporn Saengthong,Individual,High Net Worth,North,Chiang Rai,46.0,F,Credit,2021-04-09,4764474.82,090-770-2463,napaporn.sae@email.com,Medium,True
+C00327,Sasithorn Phromwong,Institution,Institutional,South,Songkhla,,,Margin,2022-06-26,187123496.13,083-581-1879,sasithorn.phr@email.com,Low,True
+C00328,Kanokwan Suksawat,Institution,Institutional,Central,Chonburi,,,Cash,2024-05-30,42143070.26,092-642-5888,kanokwan.suk@email.com,Low,True
+C00329,Patcharin Thongsuk,Institution,Institutional,North,Phitsanulok,,,Cash,2021-11-21,103071363.66,094-246-6183,patcharin.tho@email.com,Medium,True
+C00330,Rattana Wongsuwan,Individual,Retail,Central,Samut Prakan,28.0,M,Margin,2021-07-11,64238.88,081-104-8406,rattana.won@email.com,Low,True
+C00331,Supaporn Srisawat,Individual,Retail,Bangkok,Bangkok,51.0,F,Cash,2021-08-21,595838.97,093-748-8035,supaporn.sri@email.com,Low,True
+C00332,Nanthana Chaiyasit,Individual,Retail,North,Chiang Mai,41.0,M,Cash,2023-04-12,189380.19,096-295-1293,nanthana.cha@email.com,High,True
+C00333,Waraporn Tangsiri,Individual,Retail,North,Chiang Rai,46.0,F,Credit,2024-07-04,782048.67,092-615-6015,waraporn.tan@email.com,Medium,True
+C00334,Chutima Pongpanich,Individual,Retail,South,Krabi,55.0,F,Cash,2023-03-11,478378.25,093-803-3192,chutima.pon@email.com,Low,True
+C00335,Patcharee Suwannapong,Individual,Retail,Northeast,Khon Kaen,48.0,M,Cash,2023-10-21,12351.71,087-844-3149,,Medium,True
+C00336,Somchai Rattanakit,Institution,Institutional,Bangkok,Bangkok,,,Cash,2020-03-02,11074943.21,088-889-9761,somchai.rat@email.com,High,True
+C00337,Somsak Prasertchai,Institution,Institutional,Bangkok,Bangkok,,,Credit,2021-03-20,47638186.02,083-526-8279,somsak.pra@email.com,High,True
+C00338,Sompong Wattanasin,Institution,Institutional,Bangkok,Bangkok,,,Cash,2022-09-22,90168626.15,083-778-9524,sompong.wat@email.com,Medium,True
+C00339,Wichai Boonlert,Corporate,Corporate,Bangkok,Bangkok,,,Credit,2023-07-02,13637572.34,083-903-2741,wichai.boo@email.com,High,True
+C00340,Prasert Jitpakdi,Individual,High Net Worth,North,Phitsanulok,38.0,F,Credit,2023-06-06,7937664.54,085-140-9980,prasert.jit@email.com,Low,False
+C00341,Thawatchai Saengthong,Institution,Institutional,Bangkok,Bangkok,,,Margin,2020-05-26,217019851.84,098-785-9095,thawatchai.sae@email.com,Low,True
+C00342,Suphachai Phromwong,Individual,High Net Worth,Bangkok,Bangkok,25.0,M,Cash,2021-06-21,5704420.97,087-567-5850,suphachai.phr@email.com,Medium,True
+C00343,Anon Suksawat,Individual,Retail,North,Phitsanulok,34.0,M,Credit,2020-12-10,58533.33,,anon.suk@email.com,Medium,True
+C00344,Kittisak Thongsuk,Individual,Retail,South,Songkhla,54.0,F,Credit,2020-12-21,169304.55,082-481-6615,kittisak.tho@email.com,Medium,True
+C00345,Chaiyaporn Wongsuwan,Individual,Retail,Northeast,Ubon Ratchathani,25.0,M,Cash,2021-06-12,569166.32,085-215-3171,chaiyaporn.won@email.com,Medium,True
+C00346,Nattapong Srisawat,Individual,Retail,Northeast,Ubon Ratchathani,30.0,M,Credit,2024-01-25,1497478.13,099-488-6875,nattapong.sri@email.com,Medium,True
+C00347,Worawit Chaiyasit,Individual,High Net Worth,Northeast,Ubon Ratchathani,43.0,M,Margin,2024-10-28,13564714.8,,worawit.cha@email.com,Medium,True
+C00348,Siriwan Tangsiri,Institution,Institutional,South,Phuket,,,Cash,2022-08-28,41499372.16,087-593-6664,siriwan.tan@email.com,High,True
+C00349,Pornphan Pongpanich,Individual,Retail,South,Phuket,35.0,M,Credit,2025-01-07,91381.19,085-617-8688,pornphan.pon@email.com,Medium,True
+C00350,Napaporn Suwannapong,Corporate,Corporate,North,Chiang Mai,,,Credit,2022-03-29,10270763.3,087-663-7203,napaporn.suw@email.com,Medium,True
+C00351,Sasithorn Rattanakit,Institution,Institutional,Northeast,Khon Kaen,,,Margin,2020-04-12,62440652.97,095-557-6178,sasithorn.rat@email.com,Low,True
+C00352,Kanokwan Prasertchai,Individual,Retail,Northeast,Khon Kaen,26.0,F,Margin,2021-12-16,97112.89,097-100-2489,kanokwan.pra@email.com,High,True
+C00353,Patcharin Wattanasin,Individual,Retail,Northeast,Udon Thani,45.0,F,Margin,2023-01-17,103166.73,081-936-4652,patcharin.wat@email.com,High,True
+C00354,Rattana Boonlert,Individual,High Net Worth,Northeast,Khon Kaen,39.0,F,Margin,2024-07-15,20385421.08,087-102-6592,rattana.boo@email.com,High,True
+C00355,Supaporn Jitpakdi,Institution,Institutional,Bangkok,Bangkok,,,Cash,2024-02-29,141382727.69,095-243-7704,supaporn.jit@email.com,Low,True
+C00356,Nanthana Saengthong,Corporate,Corporate,Northeast,Nakhon Ratchasima,,,Margin,2022-07-09,8820673.93,086-833-6536,nanthana.sae@email.com,High,True
+C00357,Waraporn Phromwong,Individual,Retail,Northeast,Ubon Ratchathani,42.0,M,Margin,2021-05-23,709901.74,098-616-3205,,Medium,True
+C00358,Chutima Suksawat,Individual,High Net Worth,Northeast,Nakhon Ratchasima,49.0,F,Margin,2021-03-16,4270853.34,098-277-3103,chutima.suk@email.com,Medium,True
+C00359,Patcharee Thongsuk,Individual,Retail,South,Surat Thani,40.0,F,Margin,2023-07-20,384986.49,092-451-5819,patcharee.tho@email.com,High,True
+C00360,Somchai Wongsuwan,Individual,Retail,South,Songkhla,34.0,M,Cash,2020-05-10,1049662.41,097-981-6143,somchai.won@email.com,Low,True
+C00361,Somsak Srisawat,Individual,Retail,North,Lampang,46.0,F,Margin,2021-04-24,69352.33,084-827-3913,somsak.sri@email.com,Low,True
+C00362,Sompong Chaiyasit,Institution,Institutional,South,Hat Yai,,,Margin,2021-10-25,165783817.64,098-783-7839,sompong.cha@email.com,Medium,True
+C00363,Wichai Tangsiri,Institution,Institutional,Northeast,Khon Kaen,,,Cash,2022-02-25,92909373.49,083-125-7240,wichai.tan@email.com,Medium,True
+C00364,Prasert Pongpanich,Individual,High Net Worth,Central,Samut Prakan,34.0,M,Credit,2021-04-02,5625072.5,088-249-2016,prasert.pon@email.com,Medium,True
+C00365,Thawatchai Suwannapong,Individual,Retail,South,Surat Thani,46.0,F,Margin,2020-12-02,150386.21,097-498-4892,thawatchai.suw@email.com,High,False
+C00366,Suphachai Rattanakit,Individual,High Net Worth,Northeast,Ubon Ratchathani,34.0,F,Cash,2022-09-30,4243481.31,,suphachai.rat@email.com,High,True
+C00367,Anon Prasertchai,Individual,High Net Worth,North,Chiang Rai,44.0,M,Cash,2020-09-24,3395924.2,086-401-8353,anon.pra@email.com,High,True
+C00368,Kittisak Wattanasin,Institution,Institutional,Northeast,Khon Kaen,,,Credit,2022-09-06,44174352.22,088-669-5329,kittisak.wat@email.com,Low,True
+C00369,Chaiyaporn Boonlert,Individual,Retail,Central,Nonthaburi,59.0,F,Credit,2024-03-22,213709.07,090-711-1833,chaiyaporn.boo@email.com,High,True
+C00370,Nattapong Jitpakdi,Individual,High Net Worth,Bangkok,Bangkok,49.0,F,Margin,2022-02-19,7170466.71,087-288-9529,nattapong.jit@email.com,High,True
+C00371,Worawit Saengthong,Individual,Retail,North,Chiang Rai,47.0,F,Margin,2023-11-21,537133.28,090-439-6911,worawit.sae@email.com,High,False
+C00372,Siriwan Phromwong,Institution,Institutional,North,Phitsanulok,,,Credit,2023-09-26,110981031.91,099-736-4994,siriwan.phr@email.com,Medium,True
+C00373,Pornphan Suksawat,Individual,High Net Worth,Bangkok,Bangkok,48.0,F,Margin,2023-08-24,12070434.25,,pornphan.suk@email.com,High,True
+C00374,Napaporn Thongsuk,Individual,High Net Worth,Bangkok,Bangkok,57.0,M,Margin,2021-06-06,9986101.96,086-428-9419,napaporn.tho@email.com,Low,True
+C00375,Sasithorn Wongsuwan,Individual,Retail,Central,Ayutthaya,63.0,F,Margin,2020-05-25,1063773.16,083-310-9810,sasithorn.won@email.com,Low,True
+C00376,Kanokwan Srisawat,Institution,Institutional,Central,Nonthaburi,,,Credit,2022-07-05,11484175.58,090-138-2433,kanokwan.sri@email.com,High,True
+C00377,Patcharin Chaiyasit,Individual,High Net Worth,Central,Samut Prakan,40.0,M,Margin,2022-10-19,9803294.02,092-561-7626,,Low,True
+C00378,Rattana Tangsiri,Individual,Retail,South,Phuket,34.0,F,Margin,2020-11-04,851783.71,098-146-2189,rattana.tan@email.com,Medium,True
+C00379,Supaporn Pongpanich,Individual,High Net Worth,North,Phitsanulok,42.0,M,Margin,2022-12-11,4691636.71,092-941-1504,supaporn.pon@email.com,Medium,True
+C00380,Nanthana Suwannapong,Individual,Retail,South,Songkhla,45.0,M,Cash,2021-07-12,1986581.73,084-405-7113,,Low,False
+C00381,Waraporn Rattanakit,Individual,Retail,South,Hat Yai,54.0,F,Cash,2022-01-26,388248.5,097-187-5992,waraporn.rat@email.com,Medium,True
+C00382,Chutima Prasertchai,Individual,High Net Worth,South,Surat Thani,28.0,M,Margin,2024-03-07,3565735.09,085-326-5140,chutima.pra@email.com,Medium,True
+C00383,Patcharee Wattanasin,Individual,High Net Worth,Bangkok,Bangkok,51.0,F,Credit,2021-04-26,5091780.45,082-356-2608,patcharee.wat@email.com,Low,True
+C00384,Somchai Boonlert,Individual,Retail,Central,Nonthaburi,45.0,F,Margin,2023-06-27,1344330.49,099-171-4170,somchai.boo@email.com,High,True
+C00385,Somsak Jitpakdi,Individual,Retail,South,Songkhla,47.0,M,Margin,2020-07-21,35123.83,,somsak.jit@email.com,High,True
+C00386,Sompong Saengthong,Individual,Retail,North,Lampang,49.0,F,Credit,2024-04-30,615795.5,090-998-8863,sompong.sae@email.com,High,True
+C00387,Wichai Phromwong,Individual,Retail,South,Phuket,25.0,M,Margin,2020-05-13,484998.1,088-979-3293,wichai.phr@email.com,Low,True
+C00388,Prasert Suksawat,Individual,Retail,South,Phuket,56.0,M,Margin,2020-07-11,1026056.42,098-692-7637,prasert.suk@email.com,Medium,True
+C00389,Thawatchai Thongsuk,Corporate,Corporate,South,Hat Yai,,,Margin,2021-06-01,74396713.29,084-474-7430,thawatchai.tho@email.com,Medium,True
+C00390,Suphachai Wongsuwan,Individual,High Net Worth,South,Krabi,49.0,M,Margin,2024-07-29,3124471.11,,suphachai.won@email.com,Low,True
+C00391,Anon Srisawat,Individual,Retail,Central,Chonburi,38.0,F,Cash,2021-11-29,195492.89,084-853-8921,,Low,True
+C00392,Kittisak Chaiyasit,Individual,Retail,Central,Nonthaburi,53.0,M,Cash,2021-05-02,295207.49,086-630-6918,kittisak.cha@email.com,High,True
+C00393,Chaiyaporn Tangsiri,Individual,Retail,South,Songkhla,57.0,F,Credit,2020-05-27,2925764.38,088-692-9918,chaiyaporn.tan@email.com,High,True
+C00394,Nattapong Pongpanich,Individual,Retail,Bangkok,Bangkok,30.0,F,Credit,2022-12-22,791908.35,087-628-7649,nattapong.pon@email.com,High,False
+C00395,Worawit Suwannapong,Individual,High Net Worth,Central,Ayutthaya,42.0,M,Cash,2024-02-26,4247242.65,087-178-9430,worawit.suw@email.com,Medium,True
+C00396,Siriwan Rattanakit,Individual,Retail,Bangkok,Bangkok,58.0,M,Margin,2022-10-04,159592.92,090-837-2856,siriwan.rat@email.com,Low,True
+C00397,Pornphan Prasertchai,Corporate,Corporate,Northeast,Khon Kaen,,,Margin,2023-09-19,8275285.66,081-230-3639,pornphan.pra@email.com,Low,True
+C00398,Napaporn Wattanasin,Individual,Retail,North,Chiang Rai,60.0,F,Cash,2022-03-09,1437784.22,092-713-1305,napaporn.wat@email.com,Low,True
+C00399,Sasithorn Boonlert,Individual,Retail,Northeast,Ubon Ratchathani,30.0,M,Margin,2024-02-16,160250.87,087-950-7730,sasithorn.boo@email.com,High,True
+C00400,Kanokwan Jitpakdi,Corporate,Corporate,Central,Samut Prakan,,,Cash,2022-07-17,15530091.52,099-704-2127,kanokwan.jit@email.com,Low,True
+C00401,Patcharin Saengthong,Institution,Institutional,South,Hat Yai,,,Margin,2020-06-13,23065290.62,084-720-2577,patcharin.sae@email.com,Low,True
+C00402,Rattana Phromwong,Individual,Retail,South,Krabi,64.0,M,Margin,2020-11-12,15814.52,083-195-8901,rattana.phr@email.com,High,True
+C00403,Supaporn Suksawat,Individual,High Net Worth,Northeast,Udon Thani,56.0,F,Credit,2020-03-06,6204765.57,081-814-9680,supaporn.suk@email.com,Medium,True
+C00404,Nanthana Thongsuk,Corporate,Corporate,South,Phuket,,,Cash,2022-09-12,9104243.57,084-360-8817,nanthana.tho@email.com,Medium,True
+C00405,Waraporn Wongsuwan,Institution,Institutional,South,Hat Yai,,,Cash,2023-08-22,84938865.23,086-105-1116,waraporn.won@email.com,Medium,True
+C00406,Chutima Srisawat,Individual,High Net Worth,North,Phitsanulok,40.0,F,Margin,2023-01-20,12314663.05,083-258-7980,chutima.sri@email.com,Medium,True
+C00407,Patcharee Chaiyasit,Individual,High Net Worth,Northeast,Nakhon Ratchasima,33.0,F,Credit,2022-10-07,3165334.57,097-902-8904,patcharee.cha@email.com,Medium,True
+C00408,Somchai Tangsiri,Institution,Institutional,Northeast,Nakhon Ratchasima,,,Cash,2020-04-15,57940384.47,083-865-4764,somchai.tan@email.com,Low,True
+C00409,Somsak Pongpanich,Individual,High Net Worth,Northeast,Udon Thani,48.0,M,Cash,2020-08-04,6284291.8,097-728-1852,somsak.pon@email.com,Low,True
+C00410,Sompong Suwannapong,Individual,Retail,South,Hat Yai,49.0,F,Credit,2024-08-03,281327.86,082-369-4633,sompong.suw@email.com,High,True
+C00411,Wichai Rattanakit,Individual,Retail,North,Chiang Mai,35.0,F,Cash,2020-09-29,338238.01,085-755-9099,wichai.rat@email.com,Low,True
+C00412,Prasert Prasertchai,Individual,Retail,South,Krabi,25.0,M,Cash,2021-03-02,798653.65,087-729-3776,prasert.pra@email.com,Low,True
+C00413,Thawatchai Wattanasin,Individual,Retail,Northeast,Udon Thani,51.0,M,Cash,2021-04-30,303686.75,092-515-4281,thawatchai.wat@email.com,High,True
+C00414,Suphachai Boonlert,Individual,Retail,South,Krabi,42.0,F,Credit,2023-02-18,326904.42,091-935-5530,suphachai.boo@email.com,High,False
+C00415,Anon Jitpakdi,Individual,Retail,Central,Ayutthaya,36.0,M,Margin,2022-03-31,172417.36,083-672-2185,anon.jit@email.com,Medium,True
+C00416,Kittisak Saengthong,Individual,High Net Worth,South,Songkhla,49.0,F,Margin,2021-03-11,3202125.08,094-486-8923,kittisak.sae@email.com,Medium,True
+C00417,Chaiyaporn Phromwong,Individual,Retail,Bangkok,Bangkok,50.0,M,Credit,2024-06-06,55426.78,088-169-7269,chaiyaporn.phr@email.com,Medium,True
+C00418,Nattapong Suksawat,Individual,Retail,South,Krabi,73.0,F,Cash,2025-01-11,606111.66,088-354-5706,nattapong.suk@email.com,High,True
+C00419,Worawit Thongsuk,Individual,Retail,Northeast,Udon Thani,44.0,M,Credit,2023-02-06,4909.45,086-687-5408,worawit.tho@email.com,High,True
+C00420,Siriwan Wongsuwan,Individual,Retail,Central,Samut Prakan,34.0,M,Cash,2023-12-04,215873.95,087-307-5091,siriwan.won@email.com,Low,True
+C00421,Pornphan Srisawat,Individual,Retail,Northeast,Khon Kaen,45.0,F,Credit,2020-10-18,40918.84,097-143-8901,pornphan.sri@email.com,Low,True
+C00422,Napaporn Chaiyasit,Individual,Retail,South,Songkhla,47.0,F,Margin,2022-11-08,584729.28,087-868-3101,napaporn.cha@email.com,Low,True
+C00423,Sasithorn Tangsiri,Individual,High Net Worth,Northeast,Nakhon Ratchasima,32.0,M,Margin,2022-07-09,4116656.87,083-815-9490,sasithorn.tan@email.com,Low,True
+C00424,Kanokwan Pongpanich,Individual,Retail,Bangkok,Bangkok,48.0,F,Credit,2023-01-21,612897.47,099-982-5254,kanokwan.pon@email.com,High,True
+C00425,Patcharin Suwannapong,Individual,Retail,Central,Ayutthaya,35.0,F,Cash,2022-09-15,1376097.03,086-529-7099,patcharin.suw@email.com,High,True
+C00426,Rattana Rattanakit,Individual,Retail,South,Surat Thani,66.0,F,Cash,2020-07-08,1023851.78,083-838-5422,rattana.rat@email.com,Low,True
+C00427,Supaporn Prasertchai,Individual,High Net Worth,Central,Ayutthaya,49.0,F,Credit,2020-07-25,11090579.36,080-280-7906,supaporn.pra@email.com,Medium,True
+C00428,Nanthana Wattanasin,Individual,Retail,South,Phuket,46.0,F,Margin,2022-11-07,849948.8,083-807-3676,nanthana.wat@email.com,Low,True
+C00429,Waraporn Boonlert,Individual,Retail,North,Lampang,56.0,F,Margin,2023-01-22,515819.5,091-673-5222,waraporn.boo@email.com,High,True
+C00430,Chutima Jitpakdi,Individual,Retail,South,Krabi,40.0,F,Cash,2024-02-08,31125.02,089-463-6326,chutima.jit@email.com,Medium,True
+C00431,Patcharee Saengthong,Individual,Retail,Northeast,Nakhon Ratchasima,47.0,F,Cash,2020-03-19,86905.74,085-755-6527,patcharee.sae@email.com,Low,True
+C00432,Somchai Phromwong,Institution,Institutional,Central,Samut Prakan,,,Credit,2023-04-23,22372707.91,089-827-5382,somchai.phr@email.com,Medium,True
+C00433,Somsak Suksawat,Corporate,Corporate,South,Hat Yai,,,Credit,2022-10-06,13216462.49,085-288-1378,somsak.suk@email.com,High,True
+C00434,Sompong Thongsuk,Individual,Retail,Bangkok,Bangkok,52.0,M,Cash,2024-02-24,344772.55,092-205-2565,sompong.tho@email.com,Medium,True
+C00435,Wichai Wongsuwan,Individual,Retail,Bangkok,Bangkok,58.0,F,Cash,2023-08-12,635059.47,099-259-2381,wichai.won@email.com,Low,True
+C00436,Prasert Srisawat,Individual,Retail,Northeast,Nakhon Ratchasima,31.0,F,Credit,2024-05-07,570073.9,,prasert.sri@email.com,Medium,True
+C00437,Thawatchai Chaiyasit,Individual,Retail,South,Songkhla,51.0,F,Margin,2022-01-03,15566.06,094-238-9835,thawatchai.cha@email.com,High,True
+C00438,Suphachai Tangsiri,Individual,Retail,North,Lampang,58.0,F,Cash,2022-05-20,649451.49,097-332-2467,suphachai.tan@email.com,Medium,False
+C00439,Anon Pongpanich,Individual,High Net Worth,South,Surat Thani,43.0,F,Credit,2023-02-26,5771217.9,,anon.pon@email.com,Low,True
+C00440,Kittisak Suwannapong,Individual,Retail,North,Chiang Rai,26.0,F,Credit,2020-08-13,645960.78,080-661-7121,kittisak.suw@email.com,Low,True
+C00441,Chaiyaporn Rattanakit,Individual,Retail,Northeast,Ubon Ratchathani,69.0,F,Credit,2023-11-06,1033453.17,088-181-7917,chaiyaporn.rat@email.com,High,True
+C00442,Nattapong Prasertchai,Institution,Institutional,North,Phitsanulok,,,Margin,2024-01-11,37384935.07,082-286-3238,nattapong.pra@email.com,Medium,True
+C00443,Worawit Wattanasin,Individual,Retail,South,Hat Yai,54.0,M,Cash,2024-01-12,118280.45,090-119-3492,worawit.wat@email.com,Medium,True
+C00444,Siriwan Boonlert,Individual,Retail,Northeast,Khon Kaen,47.0,F,Credit,2023-10-12,499239.0,082-254-1241,siriwan.boo@email.com,Medium,True
+C00445,Pornphan Jitpakdi,Individual,High Net Worth,Bangkok,Bangkok,49.0,F,Cash,2024-08-19,14986266.03,084-157-5366,pornphan.jit@email.com,Low,True
+C00446,Napaporn Saengthong,Individual,Retail,North,Phitsanulok,36.0,M,Margin,2020-06-09,135604.8,080-224-5078,napaporn.sae@email.com,Low,True
+C00447,Sasithorn Phromwong,Corporate,Corporate,Bangkok,Bangkok,,,Margin,2022-06-07,8992861.1,092-797-6113,sasithorn.phr@email.com,Low,True
+C00448,Kanokwan Suksawat,Institution,Institutional,South,Krabi,,,Margin,2024-05-25,43891047.13,088-592-5895,kanokwan.suk@email.com,Low,True
+C00449,Patcharin Thongsuk,Individual,Retail,Central,Ayutthaya,43.0,M,Cash,2023-04-07,361614.93,080-271-5523,patcharin.tho@email.com,Low,True
+C00450,Rattana Wongsuwan,Individual,Retail,Northeast,Nakhon Ratchasima,57.0,F,Margin,2023-01-01,449410.67,082-354-3583,rattana.won@email.com,Low,True
+C00451,Supaporn Srisawat,Individual,Retail,Central,Chonburi,49.0,F,Credit,2020-08-24,149292.94,083-228-8992,supaporn.sri@email.com,High,True
+C00452,Nanthana Chaiyasit,Individual,High Net Worth,Northeast,Udon Thani,43.0,F,Margin,2021-01-08,4966621.02,084-356-1646,nanthana.cha@email.com,High,True
+C00453,Waraporn Tangsiri,Individual,High Net Worth,South,Surat Thani,26.0,M,Cash,2022-01-13,3381688.61,091-431-8674,waraporn.tan@email.com,High,True
+C00454,Chutima Pongpanich,Individual,Retail,North,Lampang,41.0,M,Cash,2022-01-17,366749.17,091-564-1011,chutima.pon@email.com,High,True
+C00455,Patcharee Suwannapong,Individual,Retail,South,Surat Thani,41.0,F,Margin,2023-04-15,142984.62,082-774-9830,patcharee.suw@email.com,Low,True
+C00456,Somchai Rattanakit,Individual,Retail,North,Phitsanulok,59.0,M,Cash,2021-06-28,613411.3,090-213-2577,somchai.rat@email.com,Low,True
+C00457,Somsak Prasertchai,Individual,Retail,Northeast,Nakhon Ratchasima,55.0,F,Cash,2024-07-12,321827.08,081-684-7366,somsak.pra@email.com,Medium,True
+C00458,Sompong Wattanasin,Individual,High Net Worth,Bangkok,Bangkok,59.0,F,Margin,2023-11-30,11190991.61,095-952-2310,sompong.wat@email.com,High,True
+C00459,Wichai Boonlert,Individual,Retail,Northeast,Udon Thani,41.0,F,Cash,2020-08-18,59346.51,081-943-5355,wichai.boo@email.com,Low,True
+C00460,Prasert Jitpakdi,Individual,Retail,Bangkok,Bangkok,49.0,M,Margin,2021-01-06,29390.55,087-644-7313,prasert.jit@email.com,High,True
+C00461,Thawatchai Saengthong,Individual,Retail,South,Krabi,43.0,F,Cash,2022-10-03,1358104.33,083-884-6864,thawatchai.sae@email.com,Low,True
+C00462,Suphachai Phromwong,Individual,Retail,South,Hat Yai,32.0,F,Credit,2022-04-03,353861.25,090-773-3591,suphachai.phr@email.com,High,True
+C00463,Anon Suksawat,Individual,Retail,North,Lampang,46.0,M,Credit,2022-10-09,1012167.28,093-945-6299,anon.suk@email.com,High,True
+C00464,Kittisak Thongsuk,Individual,Retail,North,Lampang,50.0,M,Margin,2022-07-19,362418.03,094-506-1003,kittisak.tho@email.com,Low,True
+C00465,Chaiyaporn Wongsuwan,Individual,Retail,North,Chiang Mai,34.0,F,Margin,2023-05-26,15215.99,,chaiyaporn.won@email.com,High,True
+C00466,Nattapong Srisawat,Individual,Retail,South,Surat Thani,49.0,M,Cash,2024-07-21,609849.17,081-571-6827,nattapong.sri@email.com,Medium,True
+C00467,Worawit Chaiyasit,Individual,Retail,Bangkok,Bangkok,48.0,M,Credit,2021-11-22,293268.92,086-851-2264,worawit.cha@email.com,High,True
+C00468,Siriwan Tangsiri,Institution,Institutional,Bangkok,Bangkok,,,Credit,2024-11-15,19749054.95,098-490-2285,siriwan.tan@email.com,Medium,True
+C00469,Pornphan Pongpanich,Individual,High Net Worth,Northeast,Ubon Ratchathani,37.0,M,Margin,2020-03-20,12104354.31,083-990-4714,pornphan.pon@email.com,High,True
+C00470,Napaporn Suwannapong,Institution,Institutional,North,Chiang Mai,,,Cash,2023-04-18,67481811.75,097-678-3450,napaporn.suw@email.com,Low,True
+C00471,Sasithorn Rattanakit,Individual,Retail,Northeast,Ubon Ratchathani,56.0,F,Cash,2020-11-11,422694.55,099-689-9269,sasithorn.rat@email.com,Low,True
+C00472,Kanokwan Prasertchai,Individual,Retail,Northeast,Khon Kaen,48.0,M,Cash,2022-01-04,1336452.75,092-368-2393,kanokwan.pra@email.com,Medium,True
+C00473,Patcharin Wattanasin,Individual,High Net Worth,Northeast,Ubon Ratchathani,32.0,F,Credit,2021-06-05,8377684.97,098-300-9589,patcharin.wat@email.com,High,True
+C00474,Rattana Boonlert,Individual,Retail,Bangkok,Bangkok,53.0,M,Credit,2021-04-26,526675.57,093-533-6984,rattana.boo@email.com,Low,True
+C00475,Supaporn Jitpakdi,Individual,Retail,South,Hat Yai,57.0,F,Cash,2021-08-03,762515.03,084-551-1735,supaporn.jit@email.com,High,True
+C00476,Nanthana Saengthong,Individual,Retail,Bangkok,Bangkok,41.0,M,Credit,2023-09-21,670563.39,,nanthana.sae@email.com,Medium,True
+C00477,Waraporn Phromwong,Institution,Institutional,North,Chiang Rai,,,Margin,2020-12-07,35887503.93,097-316-4339,waraporn.phr@email.com,Medium,True
+C00478,Chutima Suksawat,Individual,Retail,Central,Nonthaburi,57.0,F,Cash,2022-12-21,718341.68,098-779-9631,chutima.suk@email.com,High,True
+C00479,Patcharee Thongsuk,Individual,High Net Worth,Bangkok,Bangkok,51.0,F,Cash,2021-05-31,5859812.48,080-168-7367,patcharee.tho@email.com,Low,True
+C00480,Somchai Wongsuwan,Individual,High Net Worth,Northeast,Nakhon Ratchasima,46.0,M,Cash,2022-12-13,3028876.53,096-826-2631,somchai.won@email.com,Low,True
+C00481,Somsak Srisawat,Individual,Retail,Northeast,Khon Kaen,32.0,M,Cash,2024-11-10,228217.28,087-642-5995,somsak.sri@email.com,Medium,True
+C00482,Sompong Chaiyasit,Individual,Retail,North,Lampang,34.0,M,Margin,2023-10-05,297732.29,096-382-2015,sompong.cha@email.com,Medium,True
+C00483,Wichai Tangsiri,Individual,Retail,North,Phitsanulok,63.0,M,Credit,2021-05-26,233605.2,084-189-7262,wichai.tan@email.com,Low,True
+C00484,Prasert Pongpanich,Individual,Retail,Northeast,Udon Thani,47.0,M,Cash,2021-09-09,551630.74,090-559-9883,prasert.pon@email.com,Medium,True
+C00485,Thawatchai Suwannapong,Individual,Retail,South,Surat Thani,36.0,M,Cash,2022-09-03,311338.81,084-771-3589,thawatchai.suw@email.com,Medium,True
+C00486,Suphachai Rattanakit,Individual,Retail,Central,Nonthaburi,45.0,F,Cash,2020-10-16,326177.2,090-523-7737,suphachai.rat@email.com,Low,True
+C00487,Anon Prasertchai,Individual,Retail,Central,Nonthaburi,58.0,M,Cash,2020-10-22,208703.94,099-731-5372,anon.pra@email.com,High,False
+C00488,Kittisak Wattanasin,Individual,Retail,Bangkok,Bangkok,62.0,F,Credit,2024-05-01,381358.55,096-966-8680,kittisak.wat@email.com,Medium,True
+C00489,Chaiyaporn Boonlert,Individual,Retail,Central,Pathum Thani,25.0,M,Margin,2024-11-25,723836.56,093-882-1245,chaiyaporn.boo@email.com,High,True
+C00490,Nattapong Jitpakdi,Individual,High Net Worth,Central,Nonthaburi,41.0,M,Credit,2024-02-03,16088845.83,094-987-9027,nattapong.jit@email.com,Medium,True
+C00491,Worawit Saengthong,Individual,Retail,South,Hat Yai,49.0,M,Margin,2021-01-17,1362364.46,090-503-9784,worawit.sae@email.com,Low,True
+C00492,Siriwan Phromwong,Individual,Retail,Bangkok,Bangkok,44.0,M,Cash,2022-03-05,148379.28,097-505-1643,siriwan.phr@email.com,Medium,True
+C00493,Pornphan Suksawat,Individual,Retail,North,Lampang,33.0,M,Credit,2022-07-01,183571.89,085-532-5823,pornphan.suk@email.com,High,True
+C00494,Napaporn Thongsuk,Individual,High Net Worth,South,Phuket,25.0,F,Cash,2024-01-28,7712323.8,098-812-9952,napaporn.tho@email.com,Low,True
+C00495,Sasithorn Wongsuwan,Individual,High Net Worth,Central,Ayutthaya,49.0,M,Margin,2024-07-30,4591558.71,088-431-3686,sasithorn.won@email.com,Medium,True
+C00496,Kanokwan Srisawat,Individual,Retail,Bangkok,Bangkok,43.0,M,Credit,2021-01-03,571466.85,096-726-3619,kanokwan.sri@email.com,High,True
+C00497,Patcharin Chaiyasit,Individual,Retail,Central,Pathum Thani,43.0,F,Credit,2020-03-18,372392.25,084-283-1840,patcharin.cha@email.com,High,True
+C00498,Rattana Tangsiri,Individual,High Net Worth,Central,Pathum Thani,46.0,F,Margin,2025-01-23,4482354.8,,rattana.tan@email.com,Low,True
+C00499,Supaporn Pongpanich,Corporate,Corporate,Northeast,Nakhon Ratchasima,,,Margin,2023-11-13,18215367.43,098-775-8794,supaporn.pon@email.com,High,False
+C00500,Nanthana Suwannapong,Individual,High Net Worth,South,Songkhla,33.0,F,Cash,2021-08-10,6995056.25,097-939-4401,nanthana.suw@email.com,Low,True

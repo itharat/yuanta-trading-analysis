@@ -1,0 +1,19 @@
+tier_id,tier_name,min_value_thb,max_value_thb,commission_rate_pct,min_commission_thb,account_type
+1,Tier 1,0,100000.0,0.25,50,Cash
+1,Tier 1,0,100000.0,0.275,50,Credit
+1,Tier 1,0,100000.0,0.287,50,Margin
+2,Tier 2,100001,500000.0,0.22,50,Cash
+2,Tier 2,100001,500000.0,0.242,50,Credit
+2,Tier 2,100001,500000.0,0.253,50,Margin
+3,Tier 3,500001,1000000.0,0.18,50,Cash
+3,Tier 3,500001,1000000.0,0.198,50,Credit
+3,Tier 3,500001,1000000.0,0.207,50,Margin
+4,Tier 4,1000001,5000000.0,0.15,50,Cash
+4,Tier 4,1000001,5000000.0,0.165,50,Credit
+4,Tier 4,1000001,5000000.0,0.172,50,Margin
+5,Tier 5,5000001,20000000.0,0.12,50,Cash
+5,Tier 5,5000001,20000000.0,0.132,50,Credit
+5,Tier 5,5000001,20000000.0,0.138,50,Margin
+6,Tier 6 (Negotiated),20000001,,0.1,50,Cash
+6,Tier 6 (Negotiated),20000001,,0.11,50,Credit
+6,Tier 6 (Negotiated),20000001,,0.115,50,Margin

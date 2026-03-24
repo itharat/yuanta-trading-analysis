@@ -1,0 +1,12 @@
+name: yuanta_sec
+title: yuanta_sec
+username: napatchaith
+account: napatchaith
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16969160
+bundleId: 11752807
+url: https://napatchaith.shinyapps.io/yuanta_sec/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
